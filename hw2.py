@@ -20,6 +20,6 @@ while answer < n:
         break
     answer+=1
 if answer == n:
-    print("no")
+    print("no1")
 
 # for n in range(1,10):
